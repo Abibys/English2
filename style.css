@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+} 
+
+nav {
+    gap: 50px;
+    display: flex;
+}
+
+body {
+    background: linear-gradient(90deg,#032E42, #012E67, #2B6684, #032E42);
+    font-family: Montserrat Alternates, sans-serif;
+}
+
+
+.size {
+    font-size:45px ;
+    color: white;
+}
+
+.size2 {
+    font-size: 38px;
+    color: white;
+}
+
+button {
+    background:linear-gradient(45deg,#2B6684,#012E67);
+    width: 240px;
+    height: 100px;
+    font-size: 28px;
+    color: white;
+    border: linear black 1px;
+    border-radius:50px ;
+    font-family: Montserrat Alternates, sans-serif;
+}
+
+.choose {
+    background:linear-gradient(45deg,#2B6684,#012E67);
+    width: 309px;
+    height: 62px;
+    font-size: 28px;
+    color: white;
+    border: linear black 1px;
+    border-radius:50px ;
+    font-family: Montserrat Alternates, sans-serif;
+}
+
+
+
+.image {
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    border-bottom: black solid 1px;
+}
+
+
+footer {
+    border-top: black solid 1px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+
+.footer {
+    font-size: 37px;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    gap: 150px;
+    margin-top: 70px;
+    display: flex;
+}
+.test {
+    width: 1280;
+    height: 752;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.shrift {
+    font-family: Montserrat Alternates, sans-serif;
+    color: white;
+}
+
+
+.button {
+    width: 210px;
+    height: 80px;
+    margin-left: 155px;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.gap {
+    display: flex;
+    gap: 55px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.buttoon {
+    margin-bottom: 55px;
+}
